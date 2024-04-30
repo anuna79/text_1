@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.box{
+    width: 350px;
+    height: 160px;
+    text-align: center;
+    margin-left: 3px;
+    margin-right: 397px;
+    margin-top: 15px;
+    color: #777777;
+}
+.par2{
+    text-align: center;
+    color: #001AFF;
+    font-weight: 700;
+    font-size: 16px;
+}
+.box2 {
+    width: 350px;
+    height: 160px;
+    color: #FF0000;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: justify;
+    margin-left: 72px;
+    margin-top: 86px;
+}
